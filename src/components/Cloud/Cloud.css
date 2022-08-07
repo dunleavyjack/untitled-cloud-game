@@ -1,0 +1,12 @@
+.cloud{
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.visible{
+    background-color: white;
+}
